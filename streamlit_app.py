@@ -74,6 +74,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
+    lablks[0] : {"texts" : ["wndrnrtlr sodausdms aktdlTdj"], "images" : ["https;//search.pstatic.net/
 }
 
 # ======================
